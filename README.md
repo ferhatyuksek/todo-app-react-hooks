@@ -1,4 +1,4 @@
-# React Task Manager
+# React Todo
 
 React temellerini ve **State Management** mantığını pekiştirmek için geliştirilmiş bir uygulamadır.
 
