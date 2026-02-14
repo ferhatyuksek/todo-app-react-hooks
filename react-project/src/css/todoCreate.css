@@ -1,0 +1,58 @@
+.inputTodo {
+  width: 40%;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-size: large;
+}
+.todoBtn {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 400px;
+}
+
+.newTodo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  text-align: start;
+  font-size: 18px;
+}
+
+.deleteBtn {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  justify-self: end;
+}
+
+.editBtn {
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.checkBtn {
+  width: 25px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+.updateİnputTodo {
+  padding: 6px;
+  border: none;
+  font-size: large;
+  width: 100%;
+}
